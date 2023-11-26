@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://b0deoeamdycs3"
-path="res://.godot/imported/Free Chicken Sprites.png-f7caad94a92678c47d304336461d37a7.ctex"
+uid="uid://t8bf0s02q5c7"
+path="res://.godot/imported/DinoSprites - vita.png-fda95c3d937bc149903d84f508d67f19.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Characters/Free Chicken Sprites.png"
-dest_files=["res://.godot/imported/Free Chicken Sprites.png-f7caad94a92678c47d304336461d37a7.ctex"]
+source_file="res://art/Characters/DinoSprites - vita.png"
+dest_files=["res://.godot/imported/DinoSprites - vita.png-fda95c3d937bc149903d84f508d67f19.ctex"]
 
 [params]
 

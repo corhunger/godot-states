@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ddf5624srin4"
-path="res://.godot/imported/Basic Charakter Spritesheet.png-32d10e0ca43923ad3add4cb611c2ed77.ctex"
+uid="uid://drv8fx5e0nu6l"
+path="res://.godot/imported/DinoSprites - doux.png-839f86e1e243e4cf5ea5e4be99755eb0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Characters/Basic Charakter Spritesheet.png"
-dest_files=["res://.godot/imported/Basic Charakter Spritesheet.png-32d10e0ca43923ad3add4cb611c2ed77.ctex"]
+source_file="res://art/Characters/DinoSprites - doux.png"
+dest_files=["res://.godot/imported/DinoSprites - doux.png-839f86e1e243e4cf5ea5e4be99755eb0.ctex"]
 
 [params]
 

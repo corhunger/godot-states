@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://vl7osgd65rrd"
-path="res://.godot/imported/Egg_And_Nest.png-96d41043c114aa55e2ec72be3dd84ec3.ctex"
+uid="uid://bx8cpw6o7gtk5"
+path="res://.godot/imported/DinoSprites - tard.png-7ea53066210cc646e02605ee29c9497f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Characters/Egg_And_Nest.png"
-dest_files=["res://.godot/imported/Egg_And_Nest.png-96d41043c114aa55e2ec72be3dd84ec3.ctex"]
+source_file="res://art/Characters/DinoSprites - tard.png"
+dest_files=["res://.godot/imported/DinoSprites - tard.png-7ea53066210cc646e02605ee29c9497f.ctex"]
 
 [params]
 

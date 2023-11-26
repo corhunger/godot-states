@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://46y2yv7i4mav"
-path="res://.godot/imported/Tools.png-f186ff8ac4c9de369226115612ae5de9.ctex"
+uid="uid://3xww2q8ucx0"
+path="res://.godot/imported/shadow_2.png-0c0c727ead39992d0dd78778ca1c1a8f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://art/Characters/Tools.png"
-dest_files=["res://.godot/imported/Tools.png-f186ff8ac4c9de369226115612ae5de9.ctex"]
+source_file="res://art/Characters/shadow_2.png"
+dest_files=["res://.godot/imported/shadow_2.png-0c0c727ead39992d0dd78778ca1c1a8f.ctex"]
 
 [params]
 
